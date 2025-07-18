@@ -63,7 +63,7 @@ export default function Portfolio() {
       </section>
 
       <section className="text-center space-y-6">
-       <a href="/Resume-Yugandhar-T.pdf" download>
+       <a href="https://drive.google.com/file/d/1mEzQ40glXu_T0sqpoy11sazihn57TWoC/view?usp=sharing" download>
   Download Resume
 </a>
 
