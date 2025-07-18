@@ -63,9 +63,10 @@ export default function Portfolio() {
       </section>
 
       <section className="text-center space-y-6">
-        <a href="https://drive.google.com/uc?export=download&id=1mEzQ40glXu_T0sqpoy11sazihn57TWoC" target="_blank" rel="noopener noreferrer">
-          Download Resume
-        </a>
+       <a href="/Resume-Yugandhar-T.pdf" download>
+  Download Resume
+</a>
+
         <div className="flex justify-center space-x-6 text-gray-600">
           <a href="https://www.linkedin.com/in/yugandhar-b-a37148222" target="_blank" rel="noopener noreferrer">
             <Linkedin className="h-6 w-6 hover:text-blue-700" />
