@@ -63,9 +63,15 @@ export default function Portfolio() {
       </section>
 
       <section className="text-center space-y-6">
-       <a href="https://drive.google.com/file/d/1mEzQ40glXu_T0sqpoy11sazihn57TWoC/view?usp=sharing" download>
+      <a
+  href="/resume-yugandhar.pdf"
+  download
+  className="inline-block bg-blue-500 text-white px-6 py-2 rounded hover:bg-blue-600 transition"
+>
   Download Resume
 </a>
+
+
 
         <div className="flex justify-center space-x-6 text-gray-600">
           <a href="https://www.linkedin.com/in/yugandhar-b-a37148222" target="_blank" rel="noopener noreferrer">
