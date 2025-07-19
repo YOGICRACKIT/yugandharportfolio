@@ -1,0 +1,17 @@
+myportfolio/
+├── public/
+│   ├── your-photo.jpg
+│   └── favicon.ico (optional)
+├── src/
+│   ├── components/
+│   │   └── ui/
+│   │       ├── button.tsx
+│   │       └── card.tsx
+│   ├── App.tsx
+│   ├── main.tsx
+│   └── index.css
+├── package.json
+├── tsconfig.json
+├── tailwind.config.js
+├── vite.config.ts
+└── README.md
